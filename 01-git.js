@@ -1,7 +1,12 @@
 //Git: 
-//A free tool that used to track changes in your code, allowing multiple people to work on the same project without losing progress.
+//A free tool that used to track changes in your code.
+// it allows multiple people to work on the same project without losing progress.
+//its a version controll system.
+//Git allows you to see the full history of every commit.
+// You can revert back to any previous commit.
 
 //GitHub:
+//GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.
 // A website where you can save your Git projects, share them with others, and collaborate as a team.
 
 //Commit:

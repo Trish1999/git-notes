@@ -1,9 +1,3 @@
-//git log
-//Lists version history for the current branch
-
-// git log --follow <file>
-//Lists version history for a file, including renames
-
 // git add .
 // Add all files to the staging area
 
@@ -15,9 +9,6 @@
 
 // git show <commit>
 //Outputs metadata and content changes of the specified commit Make changes
-
-//git status
-//Confirm that all changes are in the staging area.
 
 //git diff <first-branch>...<second-branch>
 //Shows content differences between two branches

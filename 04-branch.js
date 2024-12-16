@@ -31,5 +31,5 @@
 //git push origin --delete <branch-name>
 //delete a remote branch from the remote repository
 
-//git merge [branch]
+//git merge <branch-name>
 //Combines the specified branch’s history into the current branch. This is usually done in pull requests.
