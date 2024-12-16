@@ -13,8 +13,3 @@
 //git diff <first-branch>...<second-branch>
 //Shows content differences between two branches
 
-//git reset <commit>
-//Undoes all commits after <commit>, preserving changes locally
-
-//git reset --hard <commit>
-//Discards all history and changes back to the specified commit
